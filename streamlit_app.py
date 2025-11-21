@@ -1,8 +1,6 @@
 import streamlit as st
 import requests, os
-from dotenv import load_dotenv
 
-load_dotenv()
 API_URL = "http://movie-env-1.eba-t9a3mau2.us-east-1.elasticbeanstalk.com"
 
 st.set_page_config(page_title="🎬 Movie Recommender")
