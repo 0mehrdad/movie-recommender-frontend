@@ -49,10 +49,14 @@ st.set_page_config(page_title="🎬 Movie Recommender")
 
 ▶️ Run Locally
 1. Install dependencies
+```python
 pip install streamlit requests
+```
 
 2. Start the app
+```python
 streamlit run streamlit_app.py
+```
 
 ---
 
