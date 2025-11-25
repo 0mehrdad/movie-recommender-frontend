@@ -42,7 +42,10 @@ API_URL = "http://movie-env-1.eba-t9a3mau2.us-east-1.elasticbeanstalk.com"
 
 st.set_page_config(page_title="🎬 Movie Recommender")
 ...
+```
 (Full code is included in the repo.)
+
+---
 
 ▶️ Run Locally
 1. Install dependencies
@@ -51,7 +54,11 @@ pip install streamlit requests
 2. Start the app
 streamlit run streamlit_app.py
 
+---
+
 🔗 Related Repositories
 Full Local Setup (Frontend + Backend): (https://github.com/0mehrdad/Movie-recommender-ML-32)
+
+---
 
 👨‍💻 Built by Mehrdad Madadi
